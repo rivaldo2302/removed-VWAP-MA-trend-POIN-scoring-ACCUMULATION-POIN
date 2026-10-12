@@ -1,0 +1,6 @@
+telegram_config.py
+.env
+__pycache__/
+*.pkl
+*.csv
+portfolio_state.json
